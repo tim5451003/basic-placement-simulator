@@ -52,22 +52,6 @@ This project implements a basic placement stage similar to what's found in physi
 - **Python 3** (optional, for visualization)
 - **matplotlib** (optional): `pip install matplotlib`
 
-### Installing a Compiler
-
-**Windows (Recommended - MinGW-w64):**
-```powershell
-# Using Windows Package Manager (winget)
-winget install BrechtSanders.WinLibs.POSIX.UCRT
-
-# Or download from: https://www.mingw-w64.org/downloads/
-# Or use MSYS2: https://www.msys2.org/
-```
-
-**Verify installation:**
-```powershell
-g++ --version
-```
-
 ## Building
 
 ### Option 1: VS Code (Easiest)
