@@ -4,7 +4,7 @@ A simplified placement simulator for EDA (Electronic Design Automation) that pla
 
 ## Overview
 
-This project implements a basic placement stage similar to what's found in physical design software like Cadence Innovus. It uses simulated annealing to optimize cell placement, followed by legalization and detailed placement refinement.
+This project implements a basic placement stage similar to what's found in physical design software Innovus. It uses simulated annealing to optimize cell placement, followed by legalization and detailed placement refinement.
 
 ## Features
 
